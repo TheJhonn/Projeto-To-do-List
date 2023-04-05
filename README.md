@@ -6,7 +6,7 @@ O projeto foi desenvolvido para que o usuário possa adicionar e remover itens e
 
 **Como funciona:**
 
-O usuário adicionar tarefa por tarefa que ele deseja executar no dia e conforme as tarefas forem executadas ele a exclui de sua lista, caso o usuário tente adicionar uma tarefa sem nada ter sido preenchido a caixa de preenchimento deve ficar	redvermelhared, para alertá-lo da necessidade de preenchimento. Caso ele precise modificar alguma tarefa ele só precisa excluir e adicionar uma nova tarefa.
+O usuário adicionar tarefa por tarefa que ele deseja executar no dia e conforme as tarefas forem executadas ele a exclui de sua lista, caso o usuário tente adicionar uma tarefa sem nada ter sido preenchido a caixa de preenchimento deve ficar	red vermelha red, para alertá-lo da necessidade de preenchimento. Caso ele precise modificar alguma tarefa ele só precisa excluir e adicionar uma nova tarefa.
 
 **Resumo:**
 
